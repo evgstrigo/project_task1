@@ -1,4 +1,4 @@
-package app.repositories;
+package app.services.repositories;
 
 import app.entities.Passenger;
 import org.springframework.data.jpa.repository.JpaRepository;

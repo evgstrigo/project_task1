@@ -1,8 +1,10 @@
 package app.config;
 
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
+import javax.sql.DataSource;
 
 /**
  * В этом классе инициализируются тестовые данные для базы.

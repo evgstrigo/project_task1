@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+            <passport id="1" first_name="Zaphod Beeblebrox"
+            >
+                <passenger first_name="Zaphod Beeblebrox" email = "Zaphod@mail.ru" >
+                </passenger>
+            </passport>
+
+<!--    <passenger first_name="Eugenio Strigo" email = "sev@mail.ru" >-->
+<!--        <passport id="2" first_name="Eugenio Strigo"> </passport>-->
+<!--    </passenger>-->
+<!--    <passenger first_name="Eugenio Strigo" email = "sev@mail.ru"  <passport  /> />-->
+<!--    <passenger first_name="Elena Strigo" email = "lena@mail.ru"-->
+<!--       -->
+<!--    />-->
+
+</dataset>

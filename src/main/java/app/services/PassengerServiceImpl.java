@@ -1,7 +1,7 @@
 package app.services;
 
 import app.entities.Passenger;
-import app.repositories.PassengerRepository;
+import app.services.repositories.PassengerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
